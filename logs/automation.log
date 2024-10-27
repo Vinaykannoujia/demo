@@ -1,0 +1,48 @@
+13:27:46.290[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+13:29:26.406[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+13:30:22.970[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+13:32:07.719[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+13:32:21.679[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+13:38:28.274[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\testng.xml
+
+16:38:48.476[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\crossbrowsertest.xml
+
+16:40:53.107[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\crossbrowsertest.xml
+
+17:09:52.140[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
+22:46:08.400[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
+12:18:51.920[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
+19:12:18.727[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\crossbrowsertest.xml
+
+15:09:51.219[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
+15:10:58.985[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
+15:15:58.461[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\crossbrowsertest.xml
+
+15:17:49.701[main]INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\hmaca\eclipse-workspace\Demo1\master.xml
+
